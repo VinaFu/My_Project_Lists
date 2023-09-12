@@ -3,14 +3,20 @@
 
 # Full Stack Projects:
    1. SpringBoot with Angular - Java
+
           This is a webpage of employee profiles. Users are able to search, create, read, updat and delete the profile.
+      
           Technology: SpringBoot, Angular, MySQL, Bootstrap
+      
           Demo at:https://youtu.be/dTuPlfDhxLM 
 ![image](https://github.com/VinaFu/My_Project_Lists/assets/105020281/b6a12591-b16f-45a9-bc91-de13daa1173d)
    
    2. Flask_Blog - Python
+      
           This is a online platform where customers can register, login, post and edit their posts.
+      
           Technology: HTML, CSS, Python, MySQL
+      
           Demo Video: https://youtu.be/JYKt-EZEBt0 
 ![image](https://github.com/VinaFu/My_Project_Lists/assets/105020281/2a3fc41f-80df-4e7b-b968-51417f1e7138)
 
