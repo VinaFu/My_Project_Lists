@@ -17,7 +17,7 @@
       
           Technology: HTML, CSS, Python, MySQL
       
-          Demo Video: https://youtu.be/JYKt-EZEBt0 
+          Demo Video: https://youtu.be/JYKt-EZEBt0   
 ![image](https://github.com/VinaFu/My_Project_Lists/assets/105020281/2a3fc41f-80df-4e7b-b968-51417f1e7138)
 
 
